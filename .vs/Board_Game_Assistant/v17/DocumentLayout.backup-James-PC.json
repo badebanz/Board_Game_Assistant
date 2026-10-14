@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\james.P-JNET\\OneDrive - Dundee and Angus College\\Software Dev\\Board_Game_Assistant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8587F033-2F86-4E84-B58A-BCF9566E2CB4}|Board_Game_Assistant.csproj|C:\\Users\\james.P-JNET\\OneDrive - Dundee and Angus College\\Software Dev\\Board_Game_Assistant\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8587F033-2F86-4E84-B58A-BCF9566E2CB4}|Board_Game_Assistant.csproj|solutionrelative:timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8587F033-2F86-4E84-B58A-BCF9566E2CB4}|Board_Game_Assistant.csproj|C:\\Users\\james.P-JNET\\OneDrive - Dundee and Angus College\\Software Dev\\Board_Game_Assistant\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8587F033-2F86-4E84-B58A-BCF9566E2CB4}|Board_Game_Assistant.csproj|solutionrelative:timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8587F033-2F86-4E84-B58A-BCF9566E2CB4}|Board_Game_Assistant.csproj|C:\\Users\\james.P-JNET\\OneDrive - Dundee and Angus College\\Software Dev\\Board_Game_Assistant\\stopwatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8587F033-2F86-4E84-B58A-BCF9566E2CB4}|Board_Game_Assistant.csproj|solutionrelative:stopwatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8587F033-2F86-4E84-B58A-BCF9566E2CB4}|Board_Game_Assistant.csproj|C:\\Users\\james.P-JNET\\OneDrive - Dundee and Angus College\\Software Dev\\Board_Game_Assistant\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8587F033-2F86-4E84-B58A-BCF9566E2CB4}|Board_Game_Assistant.csproj|solutionrelative:Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8587F033-2F86-4E84-B58A-BCF9566E2CB4}|Board_Game_Assistant.csproj|c:\\users\\james.p-jnet\\onedrive - dundee and angus college\\software dev\\board_game_assistant\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8587F033-2F86-4E84-B58A-BCF9566E2CB4}|Board_Game_Assistant.csproj|solutionrelative:calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8587F033-2F86-4E84-B58A-BCF9566E2CB4}|Board_Game_Assistant.csproj|C:\\Users\\james.P-JNET\\OneDrive - Dundee and Angus College\\Software Dev\\Board_Game_Assistant\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8587F033-2F86-4E84-B58A-BCF9566E2CB4}|Board_Game_Assistant.csproj|solutionrelative:calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8587F033-2F86-4E84-B58A-BCF9566E2CB4}|Board_Game_Assistant.csproj|C:\\Users\\james.P-JNET\\OneDrive - Dundee and Angus College\\Software Dev\\Board_Game_Assistant\\stopwatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8587F033-2F86-4E84-B58A-BCF9566E2CB4}|Board_Game_Assistant.csproj|solutionrelative:stopwatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8587F033-2F86-4E84-B58A-BCF9566E2CB4}|Board_Game_Assistant.csproj|C:\\Users\\james.P-JNET\\OneDrive - Dundee and Angus College\\Software Dev\\Board_Game_Assistant\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8587F033-2F86-4E84-B58A-BCF9566E2CB4}|Board_Game_Assistant.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8587F033-2F86-4E84-B58A-BCF9566E2CB4}|Board_Game_Assistant.csproj|C:\\Users\\james.P-JNET\\OneDrive - Dundee and Angus College\\Software Dev\\Board_Game_Assistant\\diceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8587F033-2F86-4E84-B58A-BCF9566E2CB4}|Board_Game_Assistant.csproj|solutionrelative:diceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8587F033-2F86-4E84-B58A-BCF9566E2CB4}|Board_Game_Assistant.csproj|C:\\Users\\james.P-JNET\\OneDrive - Dundee and Angus College\\Software Dev\\Board_Game_Assistant\\diceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8587F033-2F86-4E84-B58A-BCF9566E2CB4}|Board_Game_Assistant.csproj|solutionrelative:diceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Timer.cs",
+              "DocumentMoniker": "C:\\Users\\james.P-JNET\\OneDrive - Dundee and Angus College\\Software Dev\\Board_Game_Assistant\\Timer.cs",
+              "RelativeDocumentMoniker": "Timer.cs",
+              "ToolTip": "C:\\Users\\james.P-JNET\\OneDrive - Dundee and Angus College\\Software Dev\\Board_Game_Assistant\\Timer.cs*",
+              "RelativeToolTip": "Timer.cs*",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAwwGEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T20:51:08.352Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Timer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\james.P-JNET\\OneDrive - Dundee and Angus College\\Software Dev\\Board_Game_Assistant\\Timer.cs",
+              "RelativeDocumentMoniker": "Timer.cs",
+              "ToolTip": "C:\\Users\\james.P-JNET\\OneDrive - Dundee and Angus College\\Software Dev\\Board_Game_Assistant\\Timer.cs [Design]*",
+              "RelativeToolTip": "Timer.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T20:19:33.151Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StopWatch.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\james.P-JNET\\OneDrive - Dundee and Angus College\\Software Dev\\Board_Game_Assistant\\StopWatch.cs",
+              "RelativeDocumentMoniker": "StopWatch.cs",
+              "ToolTip": "C:\\Users\\james.P-JNET\\OneDrive - Dundee and Angus College\\Software Dev\\Board_Game_Assistant\\StopWatch.cs [Design]",
+              "RelativeToolTip": "StopWatch.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T11:22:20.884Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StopWatch.cs",
+              "DocumentMoniker": "C:\\Users\\james.P-JNET\\OneDrive - Dundee and Angus College\\Software Dev\\Board_Game_Assistant\\StopWatch.cs",
+              "RelativeDocumentMoniker": "StopWatch.cs",
+              "ToolTip": "C:\\Users\\james.P-JNET\\OneDrive - Dundee and Angus College\\Software Dev\\Board_Game_Assistant\\StopWatch.cs",
+              "RelativeToolTip": "StopWatch.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIAzwBgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T19:50:57.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DiceForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\james.P-JNET\\OneDrive - Dundee and Angus College\\Software Dev\\Board_Game_Assistant\\DiceForm.cs",
+              "RelativeDocumentMoniker": "DiceForm.cs",
+              "ToolTip": "C:\\Users\\james.P-JNET\\OneDrive - Dundee and Angus College\\Software Dev\\Board_Game_Assistant\\DiceForm.cs [Design]",
+              "RelativeToolTip": "DiceForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T11:22:15.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DiceForm.cs",
+              "DocumentMoniker": "C:\\Users\\james.P-JNET\\OneDrive - Dundee and Angus College\\Software Dev\\Board_Game_Assistant\\DiceForm.cs",
+              "RelativeDocumentMoniker": "DiceForm.cs",
+              "ToolTip": "C:\\Users\\james.P-JNET\\OneDrive - Dundee and Angus College\\Software Dev\\Board_Game_Assistant\\DiceForm.cs",
+              "RelativeToolTip": "DiceForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T10:19:55.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\james.P-JNET\\OneDrive - Dundee and Angus College\\Software Dev\\Board_Game_Assistant\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\james.P-JNET\\OneDrive - Dundee and Angus College\\Software Dev\\Board_Game_Assistant\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T11:22:17.634Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\james.P-JNET\\OneDrive - Dundee and Angus College\\Software Dev\\Board_Game_Assistant\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\james.P-JNET\\OneDrive - Dundee and Angus College\\Software Dev\\Board_Game_Assistant\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowB0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T10:19:58.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Calculator.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\james.P-JNET\\OneDrive - Dundee and Angus College\\Software Dev\\Board_Game_Assistant\\Calculator.cs",
+              "RelativeDocumentMoniker": "Calculator.cs",
+              "ToolTip": "C:\\Users\\james.P-JNET\\OneDrive - Dundee and Angus College\\Software Dev\\Board_Game_Assistant\\Calculator.cs [Design]",
+              "RelativeToolTip": "Calculator.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T11:09:16.65Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\james.P-JNET\\OneDrive - Dundee and Angus College\\Software Dev\\Board_Game_Assistant\\Calculator.cs",
+              "RelativeDocumentMoniker": "Calculator.cs",
+              "ToolTip": "C:\\Users\\james.P-JNET\\OneDrive - Dundee and Angus College\\Software Dev\\Board_Game_Assistant\\Calculator.cs",
+              "RelativeToolTip": "Calculator.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA1wB4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T10:19:51.354Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

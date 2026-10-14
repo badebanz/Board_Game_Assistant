@@ -1,0 +1,22 @@
+{
+  "ShowEmptyProjects": false,
+  "SelectedGroups": [
+    "C:\\Users\\james.P-JNET\\OneDrive - Dundee and Angus College\\Software Dev\\Board_Game_Assistant\\Form1.resx"
+  ],
+  "ExpandedProjects": [
+    "C:\\Users\\james.P-JNET\\OneDrive - Dundee and Angus College\\Software Dev\\Board_Game_Assistant\\Board_Game_Assistant.csproj"
+  ],
+  "EnableSpellChecker": true,
+  "ColumnOrder": [
+    "name",
+    "type",
+    "neutral-value",
+    "neutral-comment",
+    "file-path",
+    "file-name"
+  ],
+  "VisibleColumnKeys": [
+    "name",
+    "neutral-value"
+  ]
+}
